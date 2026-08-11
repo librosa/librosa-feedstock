@@ -1,5 +1,5 @@
-{% set version = "1.0.0rc0" %}
-{% set hash_val = "74a3451d70ece4e0c07fc8b82ec0ac53" %}
+{% set version = "1.0.0" %}
+{% set hash_val = "2b66a0605d482ee178c9331144f4c8d9" %}
 
 package:
   name: librosa
